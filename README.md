@@ -15,5 +15,4 @@ Technologies used
 * AJAX
 * Bootswatch
 
-
-
+Deployed Application: https://rubbokate-note-taker.herokuapp.com/

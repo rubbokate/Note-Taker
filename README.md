@@ -1,4 +1,4 @@
-# Welcome to note-taker! 0.1.0
+# Welcome to note-taker!
 ![Badge](https://img.shields.io/badge/license-MIT-green)
 
 ## Description
